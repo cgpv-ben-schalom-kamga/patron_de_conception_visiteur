@@ -1,0 +1,12 @@
+#fichier generer par claude IA
+
+# Dépendances installées par npm
+node_modules/
+
+# Journaux
+*.log
+npm-debug.log*
+
+# Fichiers système / éditeur
+.DS_Store
+.vscode/
