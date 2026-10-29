@@ -4,7 +4,7 @@
 class IComposantMenu {
     /**
      * Methode d'acception prenant en paramètre un objet de type IVisiteur
-     * @param {*} visiteur 
+     * @param {*} visiteur
      */
     accept(visiteur) { throw new Error("accept() doit être implémentée"); }
 }

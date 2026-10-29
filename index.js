@@ -12,7 +12,7 @@ categories.ajouter(new Option("Hommes"));
 categories.ajouter(new Option("Femmes"));
 boutique.ajouter(categories);            
 
-// On applique des visiteurs sur la MÊME structure, sans la modifier
+// On applique des visiteurs sur la même structure, sans la modifier
 const afficher = new AfficherVisiteur();
 
 console.log("=== AVANT désactivation ===");
